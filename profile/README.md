@@ -23,10 +23,8 @@ Wir stehen am Anfang: aktuell im Gespräch mit Firmen aus der Region, um den Bed
 
 ### Team
 
-| | |
-|---|---|
-| **Ole** | Product & Ops |
-| **Jeremy** | Sales |
-| **Nils** | Delivery |
+- **Ole** — Product & Ops
+- **Jeremy** — Sales
+- **Nils** — Delivery
 
 <sub>KesselTech GbR · Stuttgart, Deutschland</sub>
