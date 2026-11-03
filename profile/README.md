@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  KI-gestützte Auftragserfassung für Maschinenbau-KMU in der Region Stuttgart.
+  Ein neues ERP für Zulieferer und Lohnfertiger. Erster Baustein: die Auftragserfassung.
 </p>
 
 <p align="center">
@@ -15,11 +15,11 @@
 
 ---
 
-Bestellungen kommen per E-Mail oder PDF rein und müssen von Hand ins ERP übertragen werden. **KesselTech** automatisiert genau diesen Schritt: Bestellungen werden automatisch extrahiert, ins ERP vorbefüllt und von einem Menschen kurz gegengeprüft, bevor sie verbucht werden.
+**KesselTech** baut ein neues ERP für Zulieferer und Lohnfertiger im Mittelstand: vom Angebot über Auftrag, Arbeitsplan und Fertigung bis zu Lieferschein und Rechnung, mit Zeichnungsindex, Abrufen und Kapazität im Kern. Die Buchhaltung bleibt über DATEV beim Steuerberater. Das ERP ist im Bau; wir entwickeln es zusammen mit wenigen Pilotbetrieben, zuerst in der Region Stuttgart.
 
-Wir bauen für Maschinenbau-KMU, Zulieferer und Lohnfertiger — typischerweise 20–500 Mitarbeiter, im Umkreis von rund 80 km um Stuttgart.
+Den ersten Baustein gibt es heute: die **Auftragserfassung**. Sie läuft neben dem bestehenden ERP, liest Bestellungen aus E-Mails (PDF, Mailtext, Excel, CSV), zeigt zu jedem Feld die Stelle im Original und übergibt Aufträge erst nach Freigabe durch einen Menschen, als Importdatei für das ERP des Betriebs.
 
-Wir stehen am Anfang: aktuell im Gespräch mit Firmen aus der Region, um den Bedarf zu validieren, bevor wir bauen. Mehr, sobald es steht.
+Wie gut sie zu einem Betrieb passt, zeigt der Erfassungs-Check an 30 bis 50 seiner echten Bestellungen.
 
 ### Team
 
