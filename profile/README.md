@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  Ein neues ERP für Zulieferer und Lohnfertiger. Erster Baustein: die Auftragserfassung.
+  Ein neues ERP für Zulieferer und Auftragsfertiger. Erster Baustein: die Auftragserfassung.
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ---
 
-**KesselTech** baut ein neues ERP für Zulieferer und Lohnfertiger im Mittelstand: vom Angebot über Auftrag, Arbeitsplan und Fertigung bis zu Lieferschein und Rechnung, mit Zeichnungsindex, Abrufen und Kapazität im Kern. Die Buchhaltung bleibt über DATEV beim Steuerberater. Das ERP ist im Bau; wir entwickeln es zusammen mit wenigen Pilotbetrieben, zuerst in der Region Stuttgart.
+**KesselTech** baut ein neues ERP für Zulieferer und Auftragsfertiger im Mittelstand: vom Angebot über Auftrag, Arbeitsplan und Fertigung bis zu Lieferschein und Rechnung, mit Zeichnungsindex, Abrufen und Kapazität im Kern. Die Buchhaltung bleibt über DATEV beim Steuerberater. Das ERP ist im Bau; wir entwickeln es zusammen mit wenigen Pilotbetrieben, zuerst in der Region Stuttgart.
 
 Den ersten Baustein gibt es heute: die **Auftragserfassung**. Sie läuft neben dem bestehenden ERP, liest Bestellungen aus E-Mails (PDF, Mailtext, Excel, CSV), zeigt zu jedem Feld die Stelle im Original und übergibt Aufträge erst nach Freigabe durch einen Menschen, als Importdatei für das ERP des Betriebs.
 
