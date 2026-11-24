@@ -9,18 +9,19 @@ Dieses Repository enthält das öffentliche Profil der Organisation
 | Datei | Zweck |
 |---|---|
 | `profile/README.md` | Öffentliche Profilseite |
-| `profile/kessel-logo-horizontal-navy.png` | Logo für helle Darstellung |
-| `profile/kessel-logo-horizontal-white.png` | Logo für dunkle Darstellung |
+| `external/brand/logo/png/` | Logos für helle und dunkle Darstellung, unverändert aus einem Release von `brand` |
+| `vendir.yml`, `vendir.lock.yml` | Welche Dateien aus welchem Release (nur freigegebene, kein Manifest) und der genaue Commit |
+| `renovate.json` | Renovate hebt das Release-Tag und holt die Dateien neu |
+| `scripts/check` | Prüftor: jede im Profil verlinkte Datei existiert |
 
 ## Logos
 
-Die Logos sind unveränderte Kopien aus dem Markenpaket, Version 0.3.0, Ordner `dist/logo/png/`.
-Sie werden nie bearbeitet, sondern bei einer neuen Markenversion ersetzt. Prüfsummen (SHA-256):
-
-```text
-c66b7638f3589dd665cac46f89e3b399e16afa857698fbc2283aff1d5883d85e  kessel-logo-horizontal-navy.png
-f9c0aeeba0f85b1e9e6ad4b55bb8547c9a31dcd4f2a6e6d7628dc5b121f1d263  kessel-logo-horizontal-white.png
-```
+Die Logos kommen aus einem Release des privaten Repos `brand`. vendir holt davon nur die zwei
+freigegebenen Dateien nach `external/brand/` (Handbuch CODE-8), kein Manifest und nichts sonst, weil
+dieses Repository öffentlich ist. Neue Releases bringt Renovate als PR. Von Hand, mit Lesezugriff auf
+`brand` (etwa über `gh auth setup-git`): Tag in `vendir.yml` ändern, `vendir sync`, `scripts/check`.
+Die Dateien werden nie bearbeitet. Eine weitere Datei kommt nur nach ausdrücklicher Freigabe in
+`includePaths`.
 
 ## Pflege
 

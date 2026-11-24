@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kesseltech/.github/main/profile/kessel-logo-horizontal-white.png">
-    <img src="https://raw.githubusercontent.com/kesseltech/.github/main/profile/kessel-logo-horizontal-navy.png" width="360" alt="KesselTech">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kesseltech/.github/main/external/brand/logo/png/kessel-logo-horizontal-white.png">
+    <img src="https://raw.githubusercontent.com/kesseltech/.github/main/external/brand/logo/png/kessel-logo-horizontal-navy.png" width="360" alt="KesselTech">
   </picture>
 </p>
 

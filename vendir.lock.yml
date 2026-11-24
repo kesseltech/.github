@@ -1,0 +1,12 @@
+apiVersion: vendir.k14s.io/v1alpha1
+directories:
+- contents:
+  - git:
+      commitTitle: 'feat!: release through tags fetched with vendir instead of an
+        npm package (handbook CODE-8)...'
+      sha: f59bd4476d6bc70acd414a48d4183ce952acc050
+      tags:
+      - v0.5.0
+    path: .
+  path: external/brand
+kind: LockConfig
