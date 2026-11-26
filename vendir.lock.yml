@@ -2,11 +2,10 @@ apiVersion: vendir.k14s.io/v1alpha1
 directories:
 - contents:
   - git:
-      commitTitle: 'feat!: release through tags fetched with vendir instead of an
-        npm package (handbook CODE-8)...'
-      sha: f59bd4476d6bc70acd414a48d4183ce952acc050
+      commitTitle: 'chore(release): v0.6.2...'
+      sha: 63c95b1efe91bec93e46da071b8f84b298c1eb31
       tags:
-      - v0.5.0
+      - v0.6.2
     path: .
   path: external/brand
 kind: LockConfig
